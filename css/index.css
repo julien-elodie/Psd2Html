@@ -1,0 +1,306 @@
+.index_nav .index_banner {
+  position: relative;
+  background: #ffffff;
+}
+.index_nav .index_banner .index_banner_bg {
+  width: 1400px;
+  height: 450px;
+  overflow: hidden;
+}
+.index_nav .index_banner .index_banner_bg img {
+  margin: 0 auto;
+}
+.index_article {
+  margin: 100px auto 80px auto;
+}
+.index_article .index_panel {
+  margin: 20px 0 0 0;
+}
+.index_article .index_panel .index_panel_header {
+  margin: 20px 0;
+  text-align: center;
+}
+.index_article .index_panel .index_panel_header h1 {
+  position: relative;
+  margin: 0 auto;
+  font-weight: normal;
+}
+.index_article .index_panel hr {
+  position: relative;
+  margin: 0 auto;
+  width: 72px;
+  height: 2px;
+  background: #1b9adc;
+}
+.index_article .index_panel .index_panel_content {
+  position: relative;
+  margin: 80px auto;
+}
+.index_article .index_panel .feature {
+  height: 340px;
+}
+.index_article .index_panel .index_panel_content .feature_card {
+  float: left;
+  width: 300px;
+  height: 340px;
+  margin: 0 50px;
+}
+.index_article .index_panel .index_panel_content .feature_card .feature_logo {
+  margin-top: 80px;
+}
+.index_article
+  .index_panel
+  .index_panel_content
+  .feature_card
+  .feature_logo
+  .feature_logo_img {
+  position: relative;
+  margin: 10px auto;
+  width: 88px;
+  height: 84px;
+}
+.index_article
+  .index_panel
+  .index_panel_content
+  .feature_doctor
+  .feature_logo
+  .feature_logo_img {
+  position: relative;
+  margin: 10px auto;
+  width: 78px;
+  height: 96px;
+}
+.index_article .index_panel .index_panel_content .feature_card h3 {
+  text-align: center;
+  font-weight: normal;
+  margin: 40px 0;
+}
+.index_article .index_panel .index_panel_content .feature_doctor h3 {
+  text-align: center;
+  font-weight: normal;
+  margin: 28px 0 40px 0;
+}
+.index_article .index_panel .index_panel_content .feature_card p {
+  color: #8492a6;
+  font-weight: normal;
+  font-size: 15.2px;
+}
+.index_article .index_panel .homepage {
+  height: 500px;
+}
+.index_article .index_panel .homepage .homepage_banner {
+  position: relative;
+  background: #ffffff;
+}
+.index_article .index_panel .homepage .homepage_banner .homepage_banner_bg {
+  width: 1400px;
+  height: 353px;
+  overflow: hidden;
+  margin: 0 -100px;
+}
+.index_article .index_panel .homepage .homepage_banner .homepage_banner_bg img {
+  margin: 0 auto;
+}
+.index_article
+  .index_panel
+  .homepage
+  .homepage_banner
+  .homepage_banner_bg
+  .homepage_banner_index {
+  position: absolute;
+  width: 600px;
+  height: 200px;
+  top: 77px;
+  right: 0;
+}
+.index_article
+  .index_panel
+  .homepage
+  .homepage_banner
+  .homepage_banner_bg
+  .homepage_banner_index
+  h2 {
+  font-weight: normal;
+}
+.index_article
+  .index_panel
+  .homepage
+  .homepage_banner
+  .homepage_banner_bg
+  .homepage_banner_index
+  h3 {
+  font-weight: normal;
+  margin: 16px 0;
+  color: #324057;
+}
+.index_article
+  .index_panel
+  .homepage
+  .homepage_banner
+  .homepage_banner_bg
+  .homepage_banner_index
+  p {
+  font-weight: normal;
+  text-indent: 30px;
+  font-size: 15.6px;
+  color: #324057;
+}
+.index_article .index_panel .homepage .homepage_feature {
+  width: 1200px;
+  height: 100px;
+  margin: 24px 0 25px 0;
+}
+.index_article .index_panel .homepage .homepage_feature .homepage_feature_list {
+  width: 350px;
+  height: 100px;
+  margin: 0 25px;
+  float: left;
+}
+.index_article
+  .index_panel
+  .homepage
+  .homepage_feature
+  .homepage_feature_list
+  .homepage_feature_logo {
+  width: 70px;
+  height: 70px;
+  margin: 15px;
+  float: left;
+}
+.index_article
+  .index_panel
+  .homepage
+  .homepage_feature
+  .homepage_feature_list
+  .homepage_feature_index {
+  width: 250px;
+  height: 60px;
+  margin: 20px 0;
+  float: left;
+}
+.index_article
+  .index_panel
+  .homepage
+  .homepage_feature
+  .homepage_feature_list
+  .homepage_feature_index
+  h3 {
+  font-weight: normal;
+  margin: 0 8px 10px 8px;
+}
+.index_article
+  .index_panel
+  .homepage
+  .homepage_feature
+  .homepage_feature_list
+  .homepage_feature_index
+  p {
+  color: #8492a6;
+  font-weight: normal;
+  font-size: 15.2px;
+  margin: 10px 8px;
+}
+.index_article .index_panel .solution {
+  height: 430px;
+}
+.index_article .index_panel .index_panel_content .solution_card {
+  float: left;
+  width: 380px;
+  height: 430px;
+  margin: 0 9px;
+  border: #1b9adc 1px solid;
+  border-radius: 10px;
+}
+.index_article .index_panel .index_panel_content .solution_card .solution_logo {
+  margin-top: 30px;
+}
+.index_article
+  .index_panel
+  .index_panel_content
+  .solution_card
+  .solution_logo
+  .solution_logo_img {
+  position: relative;
+  margin: 0 auto;
+  width: 184px;
+  height: 182px;
+}
+.index_article .index_panel .index_panel_content .solution_card h2 {
+  text-align: center;
+  font-weight: normal;
+  margin: 10px;
+  color: #324057;
+}
+.index_article .index_panel .index_panel_content .solution_card h3 {
+  text-align: center;
+  font-weight: normal;
+  color: #8492a6;
+}
+.index_article .index_panel .index_panel_content .solution_card p {
+  color: #8492a6;
+  font-weight: normal;
+  text-indent: 30px;
+  font-size: 14.5px;
+  margin: 15px 30px;
+}
+.index_article .index_panel .index_panel_content .solution_card .solution_more {
+  width: 88px;
+  height: 36px;
+  border: #1b9adc 1px solid;
+  border-radius: 4px;
+  float: right;
+  margin-right: 36px;
+}
+.index_article
+  .index_panel
+  .index_panel_content
+  .solution_card
+  .solution_more
+  .soultion_more_content {
+  text-align: center;
+  color: #1b9adc;
+  font-size: 14.5px;
+  margin-top: 7px;
+}
+.index_article .index_panel .partner {
+  height: 120px;
+  width: 936px;
+}
+.index_article .index_panel .index_panel_content .partner_logo {
+  float: left;
+}
+.index_article
+  .index_panel
+  .index_panel_content
+  .partner_logo
+  .partner_logo_img {
+  margin: 0 30px;
+}
+.index_article
+  .index_panel
+  .index_panel_content
+  .partner_logo
+  .partner_logo_cnliqi {
+  margin-top: 13px;
+}
+.index_article
+  .index_panel
+  .index_panel_content
+  .partner_logo
+  .partner_logo_psychiatric {
+  margin-top: 25px;
+}
+.index_article
+  .index_panel
+  .index_panel_content
+  .partner_logo
+  .partner_logo_nfyy {
+  margin-top: 8px;
+}
+.index_article
+  .index_panel
+  .index_panel_content
+  .partner_logo
+  .partner_logo_yizinfo {
+  margin-top: 15px;
+}
